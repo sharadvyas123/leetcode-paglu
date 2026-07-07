@@ -46,4 +46,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
