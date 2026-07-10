@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
 | [0796-rotate-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0796-rotate-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
