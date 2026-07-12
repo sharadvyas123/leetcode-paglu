@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0005-longest-palindromic-substring) |
+| [0234-palindrome-linked-list](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
