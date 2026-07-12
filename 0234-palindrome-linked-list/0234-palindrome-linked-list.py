@@ -14,10 +14,10 @@ class Solution:
             # reversing the other half of the list for fast pointer to move ! 
             slow.next , prev , slow = prev , slow , slow.next
         
-        fast , slow = head , prev
-        while slow:
-            if fast.val != slow.val:
+        left , right = head , prev
+        while right:
+            if left.val != right.val:
                 return False
-            fast , slow = fast.next , slow.next
+            left , right = left.next , right.next
         
         return True
