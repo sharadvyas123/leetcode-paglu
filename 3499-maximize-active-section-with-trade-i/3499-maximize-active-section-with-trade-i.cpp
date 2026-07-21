@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int maxActiveSectionsAfterTrade(std::string s) {
+    int maxActiveSectionsAfterTrade(string s) {
         int ones = 0;
         for (char c : s) {
             if (c == '1') ones++;
@@ -49,7 +49,7 @@ public:
                 break;
             }
 
-            ans = std::max(ans, ones + c10 + c20);
+            ans = max(ans, ones + c10 + c20);
 
             // Slide the window
             c10 = c20;
