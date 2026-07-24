@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 | [1260-shift-2d-grid](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3637-trionic-array-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3637-trionic-array-i) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
 | [0796-rotate-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0796-rotate-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String Matching
@@ -122,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1260-shift-2d-grid) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
