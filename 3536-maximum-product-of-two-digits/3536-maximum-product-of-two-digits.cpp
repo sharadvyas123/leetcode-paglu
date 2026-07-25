@@ -1,13 +1,22 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        string s = to_string(n);
-        sort(s.begin() , s.end());
+        int m1 = 0 , m2 = 0;
 
-        int len = s.length();
-        int d1 = s[len-1] -'0';
-        int d2 = s[len -2 ] -'0';
+        while(n>0){
+            int d = n %10;
 
-        return d1 * d2;
+            if(d > m1){
+                m2 = m1;
+                m1 =d;
+            }
+            else if (d > m2){
+                m2 = d;
+            }
+
+            n /= 10;
+        }
+
+        return m1 * m2;
     }
 };
