@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
@@ -162,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
