@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3637-trionic-array-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3637-trionic-array-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
+| [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -180,8 +183,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0232-implement-queue-using-stacks) |
+| [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 <!---LeetCode Topics End-->
