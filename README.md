@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0137-single-number-ii) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
