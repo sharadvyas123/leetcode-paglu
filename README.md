@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0137-single-number-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
