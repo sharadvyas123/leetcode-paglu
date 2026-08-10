@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1260-shift-2d-grid) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
+| [0704-binary-search](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0704-binary-search) |
 ## Stack
 |  |
 | ------- |
