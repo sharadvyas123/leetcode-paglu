@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1406-stone-game-iii) |
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1406-stone-game-iii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
