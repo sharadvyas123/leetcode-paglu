@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0704-binary-search) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
