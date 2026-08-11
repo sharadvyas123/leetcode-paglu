@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0796-rotate-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0234-palindrome-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
