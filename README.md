@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0118-pascals-triangle) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0234-palindrome-linked-list) |
