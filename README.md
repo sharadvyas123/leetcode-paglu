@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3513-number-of-unique-xor-triplets-i) |
