@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -294,11 +299,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -320,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0169-majority-element) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
