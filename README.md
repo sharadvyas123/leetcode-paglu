@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
