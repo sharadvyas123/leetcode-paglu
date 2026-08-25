@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0229-majority-element-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0222-count-complete-tree-nodes) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0493-reverse-pairs) |
