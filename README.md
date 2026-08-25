@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1260-shift-2d-grid) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
