@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0493-reverse-pairs) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0493-reverse-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
