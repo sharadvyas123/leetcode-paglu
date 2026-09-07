@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
