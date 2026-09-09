@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1021-remove-outermost-parentheses) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0229-majority-element-ii) |
 | [0895-maximum-frequency-stack](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0895-maximum-frequency-stack) |
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
