@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0456-132-pattern) |
 | [0895-maximum-frequency-stack](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
