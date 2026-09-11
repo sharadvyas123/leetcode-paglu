@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0125-valid-palindrome) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0205-isomorphic-strings) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0189-rotate-array) |
