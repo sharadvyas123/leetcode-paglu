@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1901-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Stack
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
 ## Counting Sort
 |  |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
