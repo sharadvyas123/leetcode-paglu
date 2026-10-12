@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2762-continuous-subarrays](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2762-continuous-subarrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3483-unique-3-digit-even-numbers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0222-count-complete-tree-nodes) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/sharadvyas123/leetcode-paglu/tree/master/0895-maximum-frequency-stack) |
 | [1331-rank-transform-of-an-array](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sharadvyas123/leetcode-paglu/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2029-stone-game-ix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sharadvyas123/leetcode-paglu/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sharadvyas123/leetcode-paglu/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
